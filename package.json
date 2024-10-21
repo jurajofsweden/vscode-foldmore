@@ -54,7 +54,7 @@
         {
           "id":     "foldmore-activitybar",
           "title":  "Fold More",
-          "icon":   "resources/icons/extension-icon-v3.svg"
+          "icon":   "resources/icons/extension-icon.png"
         }
       ]
     },
