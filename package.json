@@ -1,7 +1,7 @@
 {
   "name": "vscode-foldmore",
   "displayName": "Fold More",
-  "description": "Visual Studio Code extension for arbitrary folding regions, headline comments and navigation outline view.",
+  "description": "Visual Studio Code extension for arbitrary and named folding regions, headlines and navigation tree view.",
   "version": "0.1.0",
   "publisher": "Juraj-of-Sweden",
   "license": "MIT",
