@@ -2,6 +2,10 @@
 
 All notable changes to the "Fold More" extension are documented in this file.
 
+## [0.1.3]
+
+- Resized extension icon to 128x128.
+
 ## [0.1.2]
 
 - Added `icon` property in `package.json`.
