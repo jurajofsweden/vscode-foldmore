@@ -73,7 +73,8 @@ You can use the following _markers_ to define _named folding regions_:
 ### Navigation Tree View
 
 - You can navigate faster in your code using _region labels_ and _headlines_ in the **_navigation tree view_**.
-- You build the navigation tree explicitly by defining regions and headlines of significance.
+- You build the navigation tree explicitly by defining _named regions_ and _headlines_ of significance.
+- To open the view, go to **View | Open View...** and search for **`Fold More`**
 
 ![Example of using the Fold More extention.](docs/document-treeview-icons.gif)
 
